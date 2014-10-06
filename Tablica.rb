@@ -1,8 +1,9 @@
 # tablica mnozenja pomocu for
+
 print "Integer please: "
 num1 = Integer(gets.chomp)
 
-print "Integer olease: "
+print "Integer please: "
 num2 = Integer(gets.chomp)
 print "\n"
 
