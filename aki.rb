@@ -12,10 +12,10 @@ class Language
 	end
   
 	def description
-		puts "I'm #{@name} and I was created by #{@creator}!"
+		puts "Aki is the king!"
 	end
 end
-puts "Aki is the king!"
+
 
 ruby= Language.new(name, creator)
 ruby.description
