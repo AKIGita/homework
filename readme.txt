@@ -1,0 +1,1 @@
+Ovo su jednostavni zadaci za ucenje Ruby programskog jezika.
