@@ -2,7 +2,7 @@
 
 print "Integer please: "
 num1 = Integer(gets.chomp)
-
+print "\n"
 print "Integer please: "
 num2 = Integer(gets.chomp)
 print "\n"
